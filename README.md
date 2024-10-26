@@ -1,4 +1,4 @@
-## Olá, sou Lucas 👋
+## Olá, sou Lucas Ferreira👋
 
  - 🔭 Atualmente estou trabalhando na Didudy Delicatessen.
  - 🌱 Estou aprendendo a desenvolver sites responsivos e otimizados para a web.
