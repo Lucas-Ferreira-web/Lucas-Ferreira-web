@@ -2,7 +2,7 @@
 
  - 🔭 Atualmente estou trabalhando na Didudy Delicatessen.
  - 🌱 Estou aprendendo a desenvolver sites responsivos e otimizados para a web.
- - 📫 Para falar comigo, esté e meu e-mail: lucasferreiracontato@gmail.com.
+ - 📫 Para falar comigo, esté e meu e-mail: lucasferreiracontatoo@gmail.com.
 
 <!--
 **Lucas-Ferreira-web/Lucas-Ferreira-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
